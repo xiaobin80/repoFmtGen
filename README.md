@@ -1,2 +1,9 @@
 # repoFmtGen
 Calling the Report Information Library(repoInfo.dll). 
+生成固定格式的报文.
+    IDE：VS2005    
+    Lang：C Sharp    
+    
+    Files List：    
+    1. Form1.cs    
+    实现1按钮事件；

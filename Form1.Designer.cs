@@ -50,7 +50,7 @@ namespace repoFmtGen
             this.groupBox2.Size = new System.Drawing.Size(1022, 120);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
-            this.groupBox2.Text = " ‰≥ˆ ˝◊È";
+            this.groupBox2.Text = "ËæìÂá∫Êï∞ÁªÑ";
             // 
             // label3
             // 
@@ -59,7 +59,7 @@ namespace repoFmtGen
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(35, 12);
             this.label3.TabIndex = 4;
-            this.label3.Text = "INQ£∫";
+            this.label3.Text = "INQÔºö";
             // 
             // label2
             // 
@@ -68,7 +68,7 @@ namespace repoFmtGen
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(35, 12);
             this.label2.TabIndex = 3;
-            this.label2.Text = "ACK£∫";
+            this.label2.Text = "ACKÔºö";
             // 
             // edtInq
             // 
@@ -101,7 +101,7 @@ namespace repoFmtGen
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(53, 12);
             this.label1.TabIndex = 4;
-            this.label1.Text = "’æµ„ID£∫";
+            this.label1.Text = "Á´ôÁÇπIDÔºö";
             // 
             // edtStation
             // 
@@ -121,7 +121,7 @@ namespace repoFmtGen
             this.Controls.Add(this.groupBox2);
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "≤È—Ø∫Õ»∑»œ±®Œƒ £≠ …˙≥…";
+            this.Text = "Êü•ËØ¢ÂíåÁ°ÆËÆ§Êä•Êñá Ôºç ÁîüÊàê";
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.ResumeLayout(false);

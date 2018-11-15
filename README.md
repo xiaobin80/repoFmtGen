@@ -1,6 +1,8 @@
 # repoFmtGen
 Calling the Report Information Library(repoInfo.dll). 
+
 生成固定格式的报文.
+
     IDE：VS2013    
     Lang：C Sharp    
     
